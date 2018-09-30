@@ -1,1 +1,1 @@
-Initialize.
+npm i git+https://github.com/Kalita-Roman/allow-cors.git
